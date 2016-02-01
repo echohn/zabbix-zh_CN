@@ -862,7 +862,7 @@ msgstr ""
 #: httpconf.php:46 include/views/configuration.httpconf.edit.php:80
 #: include/views/configuration.httpconf.list.php:75
 msgid "Attempts"
-msgstr ""
+msgstr "尝试次数"
 
 #: include/menu.inc.php:157
 #: include/views/administration.general.housekeeper.edit.php:74
@@ -871,7 +871,7 @@ msgstr "审计"
 
 #: adm.housekeeper.php:49
 msgid "Audit data storage period"
-msgstr ""
+msgstr "审计数据存储时间"
 
 #: include/profiles.inc.php:144
 #, c-format
@@ -880,7 +880,7 @@ msgstr ""
 
 #: auditlogs.php:27 include/views/administration.auditlogs.list.php:21
 msgid "Audit log"
-msgstr ""
+msgstr "审计日志"
 
 #: include/func.inc.php:244
 msgid "Aug"
@@ -953,11 +953,11 @@ msgstr "自动退出(90秒)"
 
 #: include/views/administration.general.housekeeper.edit.php:56
 msgid "Auto-registration data storage period (in days)"
-msgstr ""
+msgstr "自动注册数据存储时间（天）"
 
 #: adm.housekeeper.php:41
 msgid "Auto-registration event and alert data storage period"
-msgstr ""
+msgstr "自动注册时间和警报数据存储时间"
 
 #: include/profiles.inc.php:136
 #, c-format
@@ -2031,7 +2031,7 @@ msgstr "不能包含视图文件 \"%s\"."
 
 #: popup_trexpr.php:891
 msgid "Cannot insert trigger expression"
-msgstr ""
+msgstr "不能插入触发器表达式"
 
 #: include/classes/api/services/CUser.php:712
 msgid "Cannot insert user media."
@@ -2633,13 +2633,13 @@ msgstr ""
 #: include/classes/items/CHelpItems.php:407
 #: include/classes/items/CHelpItems.php:639
 msgid "Checks performance of TCP service. Returns 0 - service is down; seconds - the number of seconds spent while connecting to the service"
-msgstr ""
+msgstr "检查 TCP 服务的性能，当服务 down 时返回 0，否则返回连接服务花费的秒数"
 
 #: include/classes/items/CHelpItems.php:137
 #: include/classes/items/CHelpItems.php:419
 #: include/classes/items/CHelpItems.php:647
 msgid "Checks performance of UDP service. Returns 0 - service is down; seconds - the number of seconds spent waiting for response from the service"
-msgstr ""
+msgstr "检查 UDP 服务的性能，当服务 down 时返回 0，否则返回连接到服务花费的秒数"
 
 #: include/classes/api/services/CDRule.php:348
 msgid "Checks should be unique."
@@ -2912,7 +2912,7 @@ msgstr "配置主机"
 
 #: adm.housekeeper.php:24
 msgid "Configuration of housekeeping"
-msgstr ""
+msgstr "管家设置"
 
 #: adm.iconmapping.php:23
 msgid "Configuration of icon mapping"
@@ -3230,7 +3230,7 @@ msgstr "创建维护期间"
 
 #: include/views/monitoring.sysmap.list.php:26
 msgid "Create map"
-msgstr "创建地图"
+msgstr "创建拓扑图"
 
 #: app/views/administration.mediatype.list.php:30
 msgid "Create media type"
@@ -3286,11 +3286,11 @@ msgstr "创建值映射"
 
 #: include/views/configuration.httpconf.list.php:25
 msgid "Create web scenario"
-msgstr ""
+msgstr "创建 Web 场景"
 
 #: include/views/configuration.httpconf.list.php:22
 msgid "Create web scenario (select host first)"
-msgstr ""
+msgstr "创建 Web 场景（首先选择主机）"
 
 #: include/classes/api/managers/CApplicationManager.php:73
 #, c-format
@@ -3542,7 +3542,7 @@ msgstr "数据概览"
 #: include/views/administration.general.housekeeper.edit.php:108
 #: include/views/administration.general.housekeeper.edit.php:124
 msgid "Data storage period (in days)"
-msgstr ""
+msgstr "数据存储时间（天）"
 
 #: include/forms.inc.php:504 include/views/configuration.item.edit.php:232
 #: include/views/configuration.item.massupdate.php:226
@@ -4986,7 +4986,7 @@ msgstr "启用受所选的系统代理程序所监测的主机?"
 #: include/views/administration.general.housekeeper.edit.php:100
 #: include/views/administration.general.housekeeper.edit.php:116
 msgid "Enable internal housekeeping"
-msgstr ""
+msgstr "开启内部管家"
 
 #: include/views/configuration.action.list.php:108
 msgid "Enable selected actions?"
@@ -6135,7 +6135,7 @@ msgstr "历史清除可能会很久。继续吗?"
 
 #: adm.housekeeper.php:57
 msgid "History data storage period"
-msgstr ""
+msgstr "历史数据存储时间"
 
 #: include/profiles.inc.php:150
 #, c-format
@@ -6684,7 +6684,7 @@ msgstr "IT 服务"
 
 #: adm.housekeeper.php:45
 msgid "IT service data storage period"
-msgstr ""
+msgstr "IT 服务数据存储时间"
 
 #: include/profiles.inc.php:141
 #, c-format
@@ -7903,7 +7903,7 @@ msgstr "插入"
 #: include/views/configuration.trigger.prototype.edit.php:79
 #: include/views/configuration.triggers.edit.php:84 jsLoader.php:194
 msgid "Insert expression"
-msgstr ""
+msgstr "插入表达式"
 
 #: include/classes/setup/CSetupWizard.php:55
 #: include/classes/setup/CSetupWizard.php:405
@@ -7970,7 +7970,7 @@ msgstr "内部的JSON-RPC错误."
 
 #: include/views/administration.general.housekeeper.edit.php:44
 msgid "Internal data storage period (in days)"
-msgstr ""
+msgstr "内部数据存储时间（天）"
 
 #: include/classes/core/CJsonRpc.php:189
 msgid "Internal error."
@@ -9986,7 +9986,7 @@ msgstr "没有ID为\"%1$s\"的应用集."
 
 #: include/views/configuration.httpconf.edit.php:67
 msgid "No applications found."
-msgstr ""
+msgstr "没有发现应用集"
 
 #: include/classes/api/services/CAction.php:1346
 #, c-format
@@ -10019,16 +10019,16 @@ msgstr "没有已定义的条件."
 #: include/classes/screens/CScreenClock.php:74
 #: include/classes/screens/CScreenClock.php:78
 msgid "No data"
-msgstr ""
+msgstr "无数据"
 
 #: include/views/configuration.maintenance.edit.php:44
 #: include/views/configuration.maintenance.list.php:65
 msgid "No data collection"
-msgstr "没有数据收集"
+msgstr "无数据收集"
 
 #: include/classes/html/CTableInfo.php:30
 msgid "No data found."
-msgstr ""
+msgstr "未发现数据"
 
 #: popup_trexpr.php:578
 msgid "No data received during period of time T, then N = 1, 0 - otherwise"
@@ -10210,7 +10210,7 @@ msgstr "没有已定义的监控项."
 
 #: include/views/hostmacros.php:30
 msgid "No macros found."
-msgstr ""
+msgstr "未发现宏"
 
 #: include/classes/api/services/CScreenItem.php:577
 msgid "No map ID provided for screen element."
@@ -10513,27 +10513,27 @@ msgstr "现在"
 #: include/classes/items/CHelpItems.php:185
 #: include/classes/items/CHelpItems.php:467
 msgid "Number of CPUs. Returns integer"
-msgstr ""
+msgstr "CPU 数量，返回整数"
 
 #: include/classes/items/CHelpItems.php:887
 msgid "Number of enabled items on the host."
-msgstr ""
+msgstr "主机启用监控项的数量"
 
 #: include/blocks.inc.php:478 include/blocks.inc.php:479
 msgid "Number of hosts (enabled/disabled/templates)"
-msgstr ""
+msgstr "主机数量（已启用/已禁用/模板）"
 
 #: include/blocks.inc.php:486
 msgid "Number of items (enabled/disabled/not supported)"
-msgstr ""
+msgstr "监控项数量（已启用/已禁用/不支持）"
 
 #: include/classes/items/CHelpItems.php:907
 msgid "Number of items in Zabbix database."
-msgstr ""
+msgstr "Zabbix 数据库中的监控项数量"
 
 #: include/classes/items/CHelpItems.php:927
 msgid "Number of items in proxy history that are not yet sent to the server"
-msgstr ""
+msgstr "系统代理程序历史数据中未发送给服务端的监控项数量"
 
 #: include/classes/items/CHelpItems.php:931
 msgid "Number of items in the queue which are delayed by from to to seconds, inclusive."
@@ -10541,7 +10541,7 @@ msgstr ""
 
 #: include/classes/items/CHelpItems.php:903
 msgid "Number of monitored hosts"
-msgstr ""
+msgstr "已监控主机的数量"
 
 #: include/classes/items/CHelpItems.php:93
 #: include/classes/items/CHelpItems.php:375
@@ -10578,7 +10578,7 @@ msgstr "Unix 时间戳秒数不是 N"
 
 #: include/views/configuration.slideconf.list.php:41
 msgid "Number of slides"
-msgstr ""
+msgstr "幻灯片数量"
 
 #: include/views/reports.toptriggers.php:121
 msgid "Number of status changes"
@@ -10587,7 +10587,7 @@ msgstr "状态改变次数"
 #: app/views/monitoring.web.view.php:38
 #: include/views/configuration.httpconf.list.php:73
 msgid "Number of steps"
-msgstr "Number of steps"
+msgstr "步骤数量"
 
 #: popup_trexpr.php:258
 msgid "Number of successfully retrieved values V (which fulfill operator O) for period T is < N"
@@ -10607,19 +10607,19 @@ msgstr "周期 T 内成功取到的值V(满足操作者O)的数量不是 N"
 
 #: include/blocks.inc.php:495
 msgid "Number of triggers (enabled/disabled [problem/ok])"
-msgstr ""
+msgstr "触发器数量（已启用/已禁用 [问题/正常]）"
 
 #: include/classes/items/CHelpItems.php:951
 msgid "Number of triggers in Zabbix database."
-msgstr ""
+msgstr "Zabbix 数据库中的触发器数量"
 
 #: include/classes/items/CHelpItems.php:911
 msgid "Number of unsupported items in Zabbix database."
-msgstr ""
+msgstr "Zabbix 数据库中不支持的监控项数量。"
 
 #: include/classes/items/CHelpItems.php:891
 msgid "Number of unsupported items on the host."
-msgstr ""
+msgstr "主机中不迟滞的监控项数量。"
 
 #: include/blocks.inc.php:505
 msgid "Number of users (online)"
@@ -10628,7 +10628,7 @@ msgstr "用户数(线上)"
 #: include/classes/items/CHelpItems.php:261
 #: include/classes/items/CHelpItems.php:543
 msgid "Number of users logged in. Returns integer"
-msgstr ""
+msgstr "已登录的用户数量，返回整数"
 
 #: include/classes/items/CHelpItems.php:867
 msgid "Number of values stored in table HISTORY."
@@ -11397,19 +11397,19 @@ msgstr ""
 
 #: popup_trexpr.php:346
 msgid "Percentile P of a period T is < N"
-msgstr ""
+msgstr "期间 T 的百分比 P 数据的值 < N"
 
 #: popup_trexpr.php:356
 msgid "Percentile P of a period T is = N"
-msgstr ""
+msgstr "期间 T 的百分比 P 数据的值 = N"
 
 #: popup_trexpr.php:351
 msgid "Percentile P of a period T is > N"
-msgstr ""
+msgstr "期间 T 的百分比 P 数据的值 > N"
 
 #: popup_trexpr.php:361
 msgid "Percentile P of a period T is NOT N"
-msgstr ""
+msgstr "期间 T 的百分比 P 数据的值不等于 N"
 
 #: graphs.php:52 include/views/configuration.graph.edit.php:93
 msgid "Percentile line (left)"
@@ -14048,16 +14048,16 @@ msgstr "传输错误."
 
 #: adm.housekeeper.php:62
 msgid "Trend data storage period"
-msgstr ""
+msgstr "趋势数据存储时间"
 
 #: include/profiles.inc.php:153
 #, c-format
 msgid "Trend data storage period (in days) \"%1$s\"."
-msgstr ""
+msgstr "趋势数据存储时间（天）\"%1$s\"。"
 
 #: disc_prototypes.php:170 items.php:58
 msgid "Trend storage period"
-msgstr ""
+msgstr "趋势存储时间"
 
 #: include/views/configuration.item.edit.php:360
 #: include/views/configuration.item.massupdate.php:392
@@ -14119,7 +14119,7 @@ msgstr "触发器不能依赖从它继承的一个触发器."
 
 #: include/views/administration.general.housekeeper.edit.php:38
 msgid "Trigger data storage period (in days)"
-msgstr ""
+msgstr "触发器数据存储时间（天）"
 
 #: triggers.php:244
 msgid "Trigger deleted"
@@ -15123,7 +15123,7 @@ msgstr "用户基本资料"
 
 #: adm.housekeeper.php:53
 msgid "User session data storage period"
-msgstr ""
+msgstr "用户会话数据存储时间"
 
 #: include/profiles.inc.php:147
 #, c-format
@@ -15565,7 +15565,7 @@ msgstr ""
 
 #: jsLoader.php:167
 msgid "We are sorry, the maximum possible number of elements to remember has been reached."
-msgstr "我们很抱歉, 已经到了可记住的最大可能的组件数量."
+msgstr "很抱歉, 已经到了最大的组件数量."
 
 #: include/menu.inc.php:57 include/views/configuration.host.list.php:64
 #: include/views/configuration.host.list.php:241
@@ -15590,7 +15590,7 @@ msgstr "Web监测"
 #: httpconf.php:183 httpconf.php:331 httpconf.php:388 httpconf.php:439
 #: include/audit.inc.php:42 include/classes/api/services/CHttpTest.php:416
 msgid "Web scenario"
-msgstr ""
+msgstr "Web 场景"
 
 #: include/classes/api/managers/CHttpTestManager.php:385
 #: include/classes/api/managers/CHttpTestManager.php:393
@@ -15607,7 +15607,7 @@ msgstr "Web 场景 \"%1$s\" 已经存在."
 
 #: httpconf.php:201
 msgid "Web scenario added"
-msgstr ""
+msgstr "Web 场景已添加"
 
 #: httpconf.php:151 httpconf.php:461
 msgid "Web scenario deleted"
@@ -15622,7 +15622,7 @@ msgstr[0] "Web 场景被禁止"
 #: httpconf.php:401
 msgid "Web scenario enabled"
 msgid_plural "Web scenarios enabled"
-msgstr[0] ""
+msgstr[0] "Web 场景已启用"
 
 #: include/classes/api/services/CHttpTest.php:435
 #, c-format
@@ -15637,7 +15637,7 @@ msgstr "Web 场景必须至少有一个步骤."
 #: include/classes/api/services/CHttpTest.php:446
 #: include/classes/api/services/CHttpTest.php:563
 msgid "Web scenario name cannot be empty."
-msgstr ""
+msgstr "Web 场景名称不能为空"
 
 #: include/classes/api/services/CHttpTest.php:729
 #, c-format
@@ -15646,11 +15646,11 @@ msgstr "Web 场景 步骤\"%1$s\" 已经存在."
 
 #: include/classes/api/services/CHttpTest.php:676
 msgid "Web scenario step URL cannot be empty."
-msgstr ""
+msgstr "Web 场景步骤中的 URL 不能为空。"
 
 #: include/classes/api/services/CHttpTest.php:671
 msgid "Web scenario step name cannot be empty."
-msgstr ""
+msgstr "Web 场景步骤名不能为空。"
 
 #: include/classes/api/services/CHttpTest.php:655
 msgid "Web scenario step name should contain only printable characters."
@@ -15662,7 +15662,7 @@ msgstr "Web 场景 步骤数量不能少于1."
 
 #: httpconf.php:196
 msgid "Web scenario updated"
-msgstr ""
+msgstr "Web 场景已更新"
 
 #: include/html.inc.php:432 include/views/configuration.host.edit.php:551
 #: include/views/configuration.template.edit.php:375
@@ -15685,7 +15685,7 @@ msgstr "每周"
 
 #: include/classes/setup/CSetupWizard.php:35
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎"
 
 #: include/classes/setup/CSetupWizard.php:152
 msgid "Welcome to"
@@ -16267,7 +16267,7 @@ msgstr "固定的"
 #: include/views/configuration.item.edit.php:354
 msgctxt "item_form"
 msgid "global housekeeping settings"
-msgstr ""
+msgstr "全局管家设置"
 
 #: include/func.inc.php:565 jsLoader.php:100
 msgctxt "hour short"
