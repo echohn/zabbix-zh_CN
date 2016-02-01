@@ -3359,7 +3359,7 @@ msgstr "当前主机"
 
 #: include/views/reports.toptriggers.php:46
 msgid "Current month"
-msgstr ""
+msgstr "本月"
 
 #: popup_trexpr.php:562
 msgid "Current time is < N"
@@ -3383,11 +3383,11 @@ msgstr "当前值"
 
 #: include/views/reports.toptriggers.php:43
 msgid "Current week"
-msgstr ""
+msgstr "本周"
 
 #: include/views/reports.toptriggers.php:49
 msgid "Current year"
-msgstr ""
+msgstr "今年"
 
 #: include/views/configuration.action.edit.php:137
 #: include/views/configuration.host.discovery.edit.php:271
@@ -8730,7 +8730,7 @@ msgstr "最近一小时"
 
 #: include/views/reports.toptriggers.php:57
 msgid "Last month"
-msgstr ""
+msgstr "上个月"
 
 #: jsLoader.php:206
 msgid "Last month graph"
@@ -8752,7 +8752,7 @@ msgstr "最新数据"
 
 #: include/views/reports.toptriggers.php:54
 msgid "Last week"
-msgstr ""
+msgstr "上周"
 
 #: jsLoader.php:207
 msgid "Last week graph"
@@ -8760,7 +8760,7 @@ msgstr "上周图形"
 
 #: include/views/reports.toptriggers.php:60
 msgid "Last year"
-msgstr ""
+msgstr "去年"
 
 #: include/menu.inc.php:62 include/views/inventory.host.view.php:138
 #: jsLoader.php:203 latest.php:26 latest.php:336 search.php:128 search.php:232
@@ -15910,7 +15910,7 @@ msgstr "是"
 
 #: include/views/reports.toptriggers.php:40
 msgid "Yesterday"
-msgstr ""
+msgstr "昨天"
 
 #: include/func.inc.php:1671
 #, c-format
