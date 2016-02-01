@@ -646,7 +646,7 @@ msgstr "所有"
 
 #: include/html.inc.php:352
 msgid "All hosts"
-msgstr ""
+msgstr "全部主机"
 
 #: jsLoader.php:152
 msgid "All links should have \"Name\" and \"URL\" specified"
@@ -3642,23 +3642,23 @@ msgstr "月中第几日不是 N"
 #: include/forms.inc.php:1752 include/forms.inc.php:1823
 #: include/forms.inc.php:1883
 msgid "Day of week"
-msgstr "星期中第几日"
+msgstr "星期几"
 
 #: popup_trexpr.php:448
 msgid "Day of week is < N"
-msgstr "星期中第几日是 < N"
+msgstr "星期几 < N"
 
 #: popup_trexpr.php:456
 msgid "Day of week is = N"
-msgstr "星期中第几日是 = N"
+msgstr "星期几 = N"
 
 #: popup_trexpr.php:452
 msgid "Day of week is > N"
-msgstr "星期中第几日是 > N"
+msgstr "星期几 > N"
 
 #: popup_trexpr.php:460
 msgid "Day of week is NOT N"
-msgstr "星期中第几日不是 N"
+msgstr "星期几不是 N"
 
 #: include/forms.inc.php:1939
 msgid "Days"
@@ -6307,7 +6307,7 @@ msgstr "主机群组组件"
 #: include/classes/screens/CScreenHostgroupTriggers.php:129
 #: include/screens.inc.php:39
 msgid "Host group issues"
-msgstr ""
+msgstr "主机群组问题"
 
 #: include/views/configuration.sysmap.edit.php:84
 #: include/views/monitoring.sysmap.edit.php:147
