@@ -1,4 +1,5 @@
 # zabbix-zh_CN
+
 zabbix 界面的简体中文翻译
 
 Zabbix 本身的中文官方翻译应该是一位使用繁体中文的华人工程师进行翻译的。
@@ -16,3 +17,16 @@ Zabbix 本身的中文官方翻译应该是一位使用繁体中文的华人工�
 个人能力有限，肯定会有错误和疏漏，还请大家不吝指出，共同完善。
 
 谢谢。
+
+## USAGE
+
+进入目录 zabbix 前端目录 locale/zh_CN/LC_MESSAGES
+
+将 frontend.mo 文件上传替换原文件即可。
+
+## po 编译 mo 文件
+
+```
+msgfmt  -o frontend.mo  frontend.po
+```
+
