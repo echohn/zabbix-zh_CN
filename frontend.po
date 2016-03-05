@@ -524,7 +524,7 @@ msgstr "添加"
 
 #: include/services.inc.php:75 include/services.inc.php:114
 msgid "Add child"
-msgstr ""
+msgstr "添加子项"
 
 #: include/actions.inc.php:594 include/actions.inc.php:881
 msgid "Add host"
@@ -595,16 +595,16 @@ msgstr "客户端"
 #: include/classes/items/CHelpItems.php:69
 #: include/classes/items/CHelpItems.php:339
 msgid "Agent availability check. Returns nothing - unavailable; 1 - available"
-msgstr ""
+msgstr "客户端可达性检查。返回 nothing - 不可达；1 - 可达"
 
 #: include/views/configuration.host.list.php:69
 msgid "Agent encryption"
-msgstr ""
+msgstr "客户端加密"
 
 #: include/classes/items/CHelpItems.php:65
 #: include/classes/items/CHelpItems.php:335
 msgid "Agent host name. Returns string"
-msgstr ""
+msgstr "客户端主机名。返回字符串"
 
 #: include/views/configuration.host.edit.php:141
 #: include/views/configuration.host.edit.php:226
@@ -624,7 +624,7 @@ msgstr ""
 #: app/controllers/CControllerAcknowledgeEdit.php:146
 #: app/views/monitoring.acknowledge.edit.php:83
 msgid "Alarm acknowledgements"
-msgstr ""
+msgstr "警报确认"
 
 #: include/hosts.inc.php:114 include/views/administration.users.edit.php:46
 #: include/views/administration.users.list.php:47 popup.php:624 users.php:43
@@ -745,7 +745,7 @@ msgstr "应用集 错误."
 
 #: include/views/configuration.item.prototype.edit.php:397
 msgid "Application prototypes"
-msgstr ""
+msgstr "应用集原型"
 
 #: applications.php:110
 msgid "Application updated"
@@ -1034,7 +1034,7 @@ msgstr "期间T的平均值不是 N"
 #: include/classes/setup/CSetupWizard.php:121
 #: include/classes/setup/CSetupWizard.php:342
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: include/views/administration.general.image.edit.php:55
 #: include/views/administration.general.image.list.php:39
@@ -1132,17 +1132,17 @@ msgstr "触发器的配置"
 #: include/classes/items/CHelpItems.php:205
 #: include/classes/items/CHelpItems.php:487
 msgid "CPU information. Returns string or integer"
-msgstr ""
+msgstr "CPU 信息。返回字符串或整数"
 
 #: include/classes/items/CHelpItems.php:181
 #: include/classes/items/CHelpItems.php:463
 msgid "CPU load. Returns float"
-msgstr ""
+msgstr "CPU 负载。返回浮点数"
 
 #: include/classes/items/CHelpItems.php:193
 #: include/classes/items/CHelpItems.php:475
 msgid "CPU utilisation percentage. Returns float"
-msgstr ""
+msgstr "CPU 使用率。返回浮点数"
 
 #: include/views/configuration.services.edit.php:69 services.php:43
 msgid "Calculate SLA, acceptable SLA (in %)"
@@ -1200,7 +1200,7 @@ msgstr[0] "无法确认事件"
 #: include/classes/api/services/CHttpTest.php:621
 #, c-format
 msgid "Cannot add a discovered application \"%1$s\" to a web scenario."
-msgstr ""
+msgstr "不能添加一个已发现的应用集 \"%1$s\" 到 web 场景。"
 
 #: include/classes/api/services/CGraph.php:725
 #: include/classes/api/services/CGraph.php:739
@@ -1247,7 +1247,7 @@ msgstr "无法添加图表"
 
 #: graphs.php:234
 msgid "Cannot add graph prototype"
-msgstr ""
+msgstr "无法添加图形原型"
 
 #: hostgroups.php:182 usergrps.php:195
 msgid "Cannot add group"
@@ -1255,7 +1255,7 @@ msgstr "无法添加群组"
 
 #: include/classes/api/services/CTemplate.php:338
 msgid "Cannot add group."
-msgstr ""
+msgstr "无法添加组。"
 
 #: hosts.php:431
 msgid "Cannot add host"
@@ -1263,7 +1263,7 @@ msgstr "无法添加主机"
 
 #: host_prototypes.php:207
 msgid "Cannot add host prototype"
-msgstr ""
+msgstr "无法添加主机原型"
 
 #: adm.images.php:63
 msgid "Cannot add image"
@@ -1280,7 +1280,7 @@ msgstr ""
 
 #: disc_prototypes.php:393
 msgid "Cannot add item prototype"
-msgstr ""
+msgstr "不能添加监控项原型"
 
 #: include/classes/api/services/CApplication.php:574
 msgid "Cannot add items."
@@ -1350,7 +1350,7 @@ msgstr "无法添加触发器"
 
 #: trigger_prototypes.php:219
 msgid "Cannot add trigger prototype"
-msgstr ""
+msgstr "无法添加触发器原型"
 
 #: users.php:247
 msgid "Cannot add user"
@@ -1374,7 +1374,7 @@ msgstr "不能添加web场景"
 
 #: authentication.php:148
 msgid "Cannot change authentication"
-msgstr ""
+msgstr "不能修改认证方式"
 
 #: authentication.php:195
 msgid "Cannot change authentication method to HTTP"
@@ -1398,7 +1398,7 @@ msgstr "无法克隆图形原型"
 
 #: include/classes/api/services/CDiscoveryRule.php:1242
 msgid "Cannot clone host prototypes."
-msgstr ""
+msgstr "无法克隆主机原型。"
 
 #: include/classes/api/services/CDiscoveryRule.php:1076
 msgid "Cannot clone item prototypes."
@@ -1410,7 +1410,7 @@ msgstr "无法克隆触发器原型"
 
 #: include/classes/setup/CSetupWizard.php:263
 msgid "Cannot connect to the database."
-msgstr ""
+msgstr "不能连接到数据库。"
 
 #: graphs.php:371
 msgid "Cannot copy graphs"
@@ -1471,11 +1471,11 @@ msgstr "无法创建新组件"
 
 #: include/classes/api/services/CTemplate.php:352
 msgid "Cannot create template."
-msgstr ""
+msgstr "无法创建模板。"
 
 #: include/classes/setup/CSetupWizard.php:383
 msgid "Cannot create the configuration file."
-msgstr ""
+msgstr "无法创建配置文件。"
 
 #: include/classes/api/services/CUser.php:1398
 #, c-format
@@ -1500,7 +1500,7 @@ msgstr "无法删除依赖关系"
 #: include/classes/api/services/CApplication.php:415
 #, c-format
 msgid "Cannot delete discovered application \"%1$s\"."
-msgstr ""
+msgstr "不能删除已发现的应用集 \"%1$s\"."
 
 #: include/classes/api/services/CGraph.php:554
 #, c-format
@@ -1558,11 +1558,11 @@ msgstr "无法删除主机"
 
 #: include/classes/api/services/CDiscoveryRule.php:412
 msgid "Cannot delete host prototype."
-msgstr ""
+msgstr "无法删除主机原型。"
 
 #: host_prototypes.php:127 host_prototypes.php:256
 msgid "Cannot delete host prototypes"
-msgstr ""
+msgstr "无法删除主机原型"
 
 #: adm.iconmapping.php:96
 msgid "Cannot delete icon map"
@@ -1582,11 +1582,11 @@ msgstr "无法删除监控项"
 
 #: disc_prototypes.php:223
 msgid "Cannot delete item prototype"
-msgstr ""
+msgstr "无法删除监控项原型"
 
 #: disc_prototypes.php:435
 msgid "Cannot delete item prototypes"
-msgstr ""
+msgstr "无法删除监控项原型"
 
 #: items.php:892
 msgid "Cannot delete items"
@@ -1639,7 +1639,7 @@ msgstr "无法删除脚本. 脚本 \"%1$s\" 用于动作操作 \"%2$s\"."
 #: include/classes/api/services/CScript.php:475
 #, c-format
 msgid "Cannot delete scripts. Script with scriptid \"%1$s\" does not exist."
-msgstr ""
+msgstr "无法删除脚本。ID 为 \"%1$s\" 的脚本不存在。"
 
 #: actionconf.php:434
 msgid "Cannot delete selected actions"
@@ -1668,7 +1668,7 @@ msgstr "无法删除模板图形."
 
 #: include/classes/api/services/CHostPrototype.php:1075
 msgid "Cannot delete templated host prototype."
-msgstr ""
+msgstr "无法删除模板的主机原型。"
 
 #: include/classes/api/services/CItem.php:576
 msgid "Cannot delete templated item."
@@ -1703,7 +1703,7 @@ msgstr "无法删除触发器原型"
 
 #: trigger_prototypes.php:323
 msgid "Cannot delete trigger prototypes"
-msgstr ""
+msgstr "无法删除触发器原型"
 
 #: triggers.php:369
 msgid "Cannot delete triggers"
@@ -1852,7 +1852,7 @@ msgstr[0] ""
 
 #: scripts_exec.php:69
 msgid "Cannot execute script"
-msgstr ""
+msgstr "无法执行脚本"
 
 #: include/classes/import/importers/CMapImporter.php:318
 #, c-format
@@ -2049,11 +2049,11 @@ msgstr "无法链接模板"
 #: include/classes/api/services/CTemplate.php:847
 #: include/classes/api/services/CTemplate.php:861
 msgid "Cannot link template."
-msgstr ""
+msgstr "无法链接到模板。"
 
 #: include/classes/api/services/CUser.php:1110
 msgid "Cannot login."
-msgstr ""
+msgstr "不能登录。"
 
 #: include/classes/api/services/CUser.php:1035
 msgid "Cannot logout."
